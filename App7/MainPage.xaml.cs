@@ -68,5 +68,13 @@ namespace App7
         {
             SetFocusInLoogAsync();
         }
+
+        private async void tb6_Click(object sender, RoutedEventArgs e)
+        {
+
+            ClassLibraryUWP.Class1.CrashNow();
+           
+
+        }
     }
 }
