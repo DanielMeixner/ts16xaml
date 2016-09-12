@@ -56,7 +56,7 @@ namespace App7
                         break;
 
                     default:
-                        // comment
+                        // something else
                         tb6.Focus(FocusState.Programmatic);
                         break;
                 }
