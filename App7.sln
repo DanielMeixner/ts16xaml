@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyWeb", "DummyWeb\DummyW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryUWP", "ClassLibraryUWP\ClassLibraryUWP.csproj", "{3524AA30-565E-41E0-98D1-B50EBA46745D}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{818781E7-E22D-4DAD-A036-A964D629B274}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,14 @@ Global
 		{3524AA30-565E-41E0-98D1-B50EBA46745D}.Release|x64.Build.0 = Release|x64
 		{3524AA30-565E-41E0-98D1-B50EBA46745D}.Release|x86.ActiveCfg = Release|x86
 		{3524AA30-565E-41E0-98D1-B50EBA46745D}.Release|x86.Build.0 = Release|x86
+		{818781E7-E22D-4DAD-A036-A964D629B274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818781E7-E22D-4DAD-A036-A964D629B274}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{818781E7-E22D-4DAD-A036-A964D629B274}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{818781E7-E22D-4DAD-A036-A964D629B274}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{818781E7-E22D-4DAD-A036-A964D629B274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818781E7-E22D-4DAD-A036-A964D629B274}.Release|ARM.ActiveCfg = Release|Any CPU
+		{818781E7-E22D-4DAD-A036-A964D629B274}.Release|x64.ActiveCfg = Release|Any CPU
+		{818781E7-E22D-4DAD-A036-A964D629B274}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

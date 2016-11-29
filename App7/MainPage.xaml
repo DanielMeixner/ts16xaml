@@ -9,7 +9,7 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <StackPanel VerticalAlignment="Center">
-            <TextBlock Text="DemoApp" FontSize="40" HorizontalAlignment="Center"></TextBlock>
+            <TextBlock Text="changed now" FontSize="40" HorizontalAlignment="Center"></TextBlock>
 
             <TextBox Width="200" Height="20" Background="Green" Name="tb"></TextBox>
             <TextBox Width="200" Height="20"  Name="tb1"></TextBox>

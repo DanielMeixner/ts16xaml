@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+﻿
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -26,7 +26,7 @@ namespace DummyUWP
         public MainPage()
         {
             this.InitializeComponent();
-           // JsonConvert.DeserializeObject("");
+           JsonConvert.DeserializeObject("");
         }
     }
 }

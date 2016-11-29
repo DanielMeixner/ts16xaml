@@ -12,11 +12,6 @@ namespace ClassLibraryUWP
         static string url = "willcrash";
 
 
-
-
-
-
-
         public static async void CrashNow()
         {
             HttpClient cl = new HttpClient();
